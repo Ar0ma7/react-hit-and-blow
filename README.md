@@ -1,4 +1,4 @@
-# Template project
+# React Hit & Blow
 
 ## Overview
 
@@ -6,8 +6,18 @@
 This is a template repository.
 
 ## Requirement
+- Node.js 16.13+
 
 ## Usage
+1. Install npm package
+  ```
+  $ npm install
+  ```
+2. Run `npm run dev`
+  ```
+  $ npm run dev
+  ```
+3. Access `http://localhost:3000` with a web browser
 
 ## Install
 
